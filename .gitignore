@@ -1,4 +1,8 @@
-﻿# Visual Studio 2017 user specific files
+﻿# p4v
+.p4root/
+p4config.txt
+p4ignore.txt
+# Visual Studio 2017 user specific files
 */**/.vs
 
 # Compiled Object files
